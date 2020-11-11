@@ -17,7 +17,7 @@ Please note that __new tokens are not accepted__,
 the projects have to be sound, with information available, and __non-minimal circulation__
 (for limit details see https://community.trustwallet.com/t/how-to-submit-a-token-logo/3863#how-to-get-approved).
 
-<center><img src='https://raw.githubusercontent.com/trustwallet/assets/master/media/trust-wallet.png'></center>
+<center><img src='blockchains/ethereum/assets/0xE6Fa4C9D105C7cDb6C562bA0caF70b9135c3E4Cb/logo.png'></center>
 
 ## How to add token
 
